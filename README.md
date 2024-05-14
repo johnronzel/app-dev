@@ -4,12 +4,6 @@
 3.  Jujutsu Kaisen
 4.  Death Note
 5.  Suzume
-   
-| One Piece | Title |
-| Kimetsu no Yaiba | Text |
-| Jujutsu Kaisen | Text |
-| Death Note | Text |
-| Suzume | Text |
 ###  One Piece
 ![alt text](https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg)
 One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled in 108 tankōbon volumes as of March 2024.
