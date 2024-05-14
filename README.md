@@ -5,5 +5,4 @@
 4.  Death Note
 5.  Suzume
 ##  One Piece
-![alt text]([image.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/1920px-One_Piece_Logo.svg.png))
-[title](https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/1920px-One_Piece_Logo.svg.png)
+![[alt text](https://www.dexerto.com/cdn-cgi/image/width=750,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/09/04/one-piece-anime-characters-live-action.jpg)](image.jpg)
