@@ -5,7 +5,7 @@
 4.  Death Note
 5.  Suzume
 ###  One Piece
-![Alt text]([image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt16428256%2F&psig=AOvVaw0glJCHqKKpvDtIbUXjj6J7&ust=1715786619091000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjw07G5jYYDFQAAAAAdAAAAABAD))
+![alt text](https://m.media-amazon.com/images/M/MV5BNGVkNDc3NjUtNTY5ZS00ZmE0LWE3YzctMDk2OTRlNTdiZWQwXkEyXkFqcGdeQXVyMTU3NDg0OTgx._V1_.jpg)
 -  One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled in 108 tankōbon volumes as of March 2024.
 ###  Kimetsu no Yaiba
 -  Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from February 2016 to May 2020, with its chapters collected in 23 tankōbon volumes.
