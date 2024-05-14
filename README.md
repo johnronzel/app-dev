@@ -5,3 +5,7 @@
 4.  Death Note
 5.  Suzume
 ##  One Piece
+##  Kimetsu no Yaiba
+##   Jujutsu Kaisen
+##  Death Note
+##  Suzume
